@@ -13,20 +13,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-# Salut, 👋
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
-- ⭐ » Connais le Python.
-- 🎮 » Passioné de Minecraft.
-- 🚀 » Application Nova™.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
 ## 🛠️ Technologies utilisés
 
 ![Talents](https://skillicons.dev/icons?i=php,discord,js,python,html,node.js&theme=dark)
