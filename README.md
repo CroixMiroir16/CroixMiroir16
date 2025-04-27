@@ -21,8 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![PocketMine](https://img.shields.io/badge/-PocketMine-333333?style=for-the-badge&logo=php)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=for-the-badge&logo=discord)
-![Python]
-(https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
 
 ---
 
@@ -34,7 +33,6 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 ## 📊 Mes Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CroixMiroir16&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CroixMiroir16&theme=tokyonight" alt="streak" />
 </p>
 
