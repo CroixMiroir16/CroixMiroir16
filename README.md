@@ -15,21 +15,16 @@
 
 ---
 
-## 🛠️ Technologies que j'utilise
+## 🛠️ Technologies utilisés
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![PocketMine](https://img.shields.io/badge/-PocketMine-333333?style=for-the-badge&logo=php)
-![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=for-the-badge&logo=discord)
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
-![Html](https://img.shields.io/badge/Html-333333?style=for-the-badge&logo=html)
+![Talents](https://skillicons.dev/icons?i=php,discord,discord.js,js,python,html,node.js&theme=dark)
 
 ---
 
 ## 🔥 Mes projets récents
 - [Nova™](1219689750395617280)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+<p>https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif<p/>
 
 ## 📊 Mes Stats GitHub
 
