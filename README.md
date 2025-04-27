@@ -20,7 +20,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![PocketMine](https://img.shields.io/badge/-PocketMineMP-333333?style=for-the-badge&logo=php)
+![PocketMine](https://img.shields.io/badge/-PocketMine-333333?style=for-the-badge&logo=php)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=for-the-badge&logo=discord)
 
 ---
