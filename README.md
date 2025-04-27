@@ -30,8 +30,6 @@
 
 ---
 
-![CroixMiroir16's GitHub stats](https://github-readme-stats.vercel.app/api?username=CroixMiroir16&show_icons=true&theme=tokyonight)
-
 ## 📊 Mes Stats GitHub
 
 <p align="center">
