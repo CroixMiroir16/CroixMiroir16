@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=435&lines=Adore+la+programmation.;Cr%C3%A9ateur+de+l'application+Nova.;Passion%C3%A9+du+jeu+vid%C3%A9o+Minecraft.;Fait+de+la+mod%C3%A9ration+sur+plusieurs+serveurs.;Aime+apprendre+davantage.;Joue+%C3%A0+de+nombreux+jeux+vid%C3%A9os.+;Personne+tr%C3%A8s+inspir%C3%A9e+et+cr%C3%A9ative.+;Proche+de+la+communaut%C3%A9.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=435&lines=Adore+la+programmation.;Cr%C3%A9ateur+de+l'application+Nova.;Passion%C3%A9+du+jeu+vid%C3%A9o+Minecraft.;Aime+faire+de+la+mod%C3%A9ration.+;Aime+apprendre+davantage.;Personne+inspir%C3%A9e+et+cr%C3%A9ative.;Proche+de+la+communaut%C3%A9.+)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
