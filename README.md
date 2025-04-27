@@ -22,6 +22,7 @@
 ![PocketMine](https://img.shields.io/badge/-PocketMine-333333?style=for-the-badge&logo=php)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=for-the-badge&logo=discord)
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![Html](https://img.shields.io/badge/Html-333333?style=for-the-badge&logo=html)
 
 ---
 
