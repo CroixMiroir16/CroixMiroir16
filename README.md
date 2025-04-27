@@ -2,10 +2,10 @@
 
 ---
 
-⭐ » Connais le Python.
-🎮 » Passioné de Minecraft.
-🚀 » Créateur de l'application Nova™.
-🛡️ » Effectue de la modération sur plusieurs serveurs.
+⭐ » Connais le Python.\n
+🎮 » Passioné de Minecraft.\n
+🚀 » Créateur de l'application Nova™.\n
+🛡️ » Effectue de la modération sur plusieurs serveurs.\n
 
 ---
 
