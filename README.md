@@ -17,14 +17,16 @@
 
 ## 🛠️ Technologies utilisés
 
-![Talents](https://skillicons.dev/icons?i=php,discord,discord.js,js,python,html,node.js&theme=dark)
+![Talents](https://skillicons.dev/icons?i=php,discord,js,python,html,node.js&theme=dark)
 
 ---
 
 ## 🔥 Mes projets récents
 - [Nova™](1219689750395617280)
 
-<p>https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif<p/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
 
 ## 📊 Mes Stats GitHub
 
