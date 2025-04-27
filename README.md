@@ -7,9 +7,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-<img align="center"
-    src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=450&lines=Adore+la+programmation;Application+appelée+Nova;Passioné+de+Minecraft;Fait+de+la+modération;Aime+apprendre+davantage"
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=450&lines=Adore+la+programmation;Application+appelée+Nova;Passioné+de+Minecraft;Fait+de+la+modération;Aime+apprendre+davantage"
     width="1000" height="100" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
