@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=450&lines=Adore+la+programmation;Application+appelée+Nova;Passioné+de+Minecraft;Fait+de+la+modération;Aime+apprendre+davantage"
-    width="1000" height="100" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=450&lines=Adore+la+programmation;Application+appelée+Nova;Passioné+de+Minecraft;Fait+de+la+modération;Aime+apprendre+davantage"/>
 </p>
 
 <p align="center">
