@@ -44,13 +44,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-<div align="center">
-     <img src="https://lanyard.cnrad.dev/api/848876050866896896?bg=transparent" alt="discord-info" margin-top="2rem" />
-</div>
 
-<a href="https://discord.com/users/848876050866896896"><img src="https://lanyard.cnrad.dev/api/848876050866896896" /></a>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/848876050866896896)](https://discord.com/users/848876050866896896)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
