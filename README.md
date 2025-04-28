@@ -44,6 +44,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
+<div align="center">
+     <img src="https://lanyard.cnrad.dev/api/526853643962679323?bg=transparent" alt="discord-info" margin-top="2rem" />
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=150&section=footer"/>
 </p>
