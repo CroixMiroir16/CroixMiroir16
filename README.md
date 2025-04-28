@@ -45,7 +45,7 @@
 </p>
 
 <div align="center">
-     <img src="https://lanyard.cnrad.dev/api/526853643962679323?bg=transparent" alt="discord-info" margin-top="2rem" />
+     <img src="https://lanyard.cnrad.dev/api/848876050866896896?bg=transparent" alt="discord-info" margin-top="2rem" />
 </div>
 
 <p align="center">
