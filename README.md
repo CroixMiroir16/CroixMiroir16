@@ -49,5 +49,9 @@
 </div>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=150&section=footer"/>
 </p>
