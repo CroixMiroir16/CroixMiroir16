@@ -15,7 +15,7 @@
 
 ## 🛠️ Technologies utilisés
 
-![Talents](https://skillicons.dev/icons?i=php,discord,js,python,html,node.js&theme=dark)
+![Talents](https://skillicons.dev/icons?i=discord,js,html,python,node.js&theme=dark)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
