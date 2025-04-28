@@ -40,7 +40,9 @@
         alt="ProfileViews" /> 
     </p>
 
-<img src="https://lanyard.cnrad.dev/api/526853643962679323?bg=transparent" alt="discord-info" margin-top="2rem" />
+<div align="center">
+     <img src="https://lanyard.cnrad.dev/api/848876050866896896?bg=transparent" alt="discord-info" margin-top="2rem" />
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
