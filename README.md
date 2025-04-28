@@ -34,9 +34,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CroixMiroir16&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="left"> 
+<p align="center"> 
     <img
-        src="https://komarev.com/ghpvc/?username=kkkermit&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=croixmiroir16&label=Profile%20views&color=0e75b6&style=flat"
         alt="ProfileViews" /> 
     </p>
 
