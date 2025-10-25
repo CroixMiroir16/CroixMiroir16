@@ -7,7 +7,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&center=true&width=620&lines=La+diff%C3%A9rence+n'est+pas+un+d%C3%A9faut%2C+c'est+une+force.;La+programmation+est+un+moyen+d'%C3%A9vasion.;La+d%C3%A9couverte+est+continue+et+illimit%C3%A9e.;La+m%C3%A9moire+conserve+nos+souvenirs.;La+r%C3%A9flexion+change+nos+habitudes.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&center=true&width=435&lines=Ta+phrase+1;Ta+phrase+2;Ta+phrase+3;Ta+phrase+4;Ta+phrase+5](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&center=true&width=620&lines=La+diff%C3%A9rence+n'est+pas+un+d%C3%A9faut%2C+c'est+une+force.;La+programmation+est+un+moyen+d'%C3%A9vasion.;La+d%C3%A9couverte+est+continue+et+illimit%C3%A9e.;La+m%C3%A9moire+conserve+nos+souvenirs.;La+r%C3%A9flexion+change+nos+habitudes." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
