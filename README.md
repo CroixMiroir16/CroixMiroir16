@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=435&lines=Adore+la+programmation.;Cr%C3%A9ateur+de+l'application+Nova.;Passion%C3%A9+du+jeu+vid%C3%A9o+Minecraft.;Aime+faire+de+la+mod%C3%A9ration.+;Aime+apprendre+davantage.;Personne+inspir%C3%A9e+et+cr%C3%A9ative.;Proche+de+la+communaut%C3%A9.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=435&lines=La+diff%C3%A9rence+n'est+pas+un+d%C3%A9faut%2C+c'est+une+force.;La+programmation+est+un+moyen+d'%C3%A9vasion.;La+d%C3%A9couverte+est+continue+et+illimit%C3%A9e.;La+m%C3%A9moire+conserve+nos+souvenirs.;La+r%C3%A9flexion+change+nos+habitudes.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
