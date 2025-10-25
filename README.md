@@ -13,15 +13,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🛠️ Technologies utilisés
+## 🛠️ Langages :
 
-![Talents](https://skillicons.dev/icons?i=discord,js,html,python,github&theme=dark)
+![Talents](https://skillicons.dev/icons?i=js,python&theme=dark)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🔥 Mes projets récents
+## 🔥 Application :
 - [Nova™](1219689750395617280)
 
 <p align="center">
